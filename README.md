@@ -13,3 +13,5 @@ Fully customizable.
 No installation is required.
 
 Developped in Visual Basic 6...Yes, yes, you read right, I developped that in Visual Basic 6 under Windows 11. Impressive how old school stuff is so easy to implement and still operational.
+
+Download here: https://github.com/avidichard/keylockstat/releases
