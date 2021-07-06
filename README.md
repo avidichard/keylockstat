@@ -6,8 +6,11 @@ For those, like me, who do not have numlock, capslock and scrolllock status leds
 Fully customizable.
 
 • Choose which icons to hide
+
 • Portable
+
 • Start with window
+
 • Single executable file
 
 No installation is required.
