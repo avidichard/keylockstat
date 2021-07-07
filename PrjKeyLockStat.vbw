@@ -1,0 +1,7 @@
+FrmMain = 52, 52, 1202, 694, , 26, 26, 1176, 668, C
+ModKbKeys = 78, 78, 1228, 720, 
+ModInitComCtls = 104, 104, 1254, 746, 
+ModTrayIcon = 104, 104, 1254, 746, 
+ModINI = 208, 208, 1436, 730, 
+ModFile = 52, 52, 1280, 574, Z
+ModRegistry = 208, 208, 1436, 730, 

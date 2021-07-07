@@ -26,7 +26,7 @@ Public Function FileExists(ByVal sFileName As String) As Boolean
   RetVal = False
   
   lRetVal = OpenFile(sFileName, OfSt, OF_EXIST)
-  If lRetVal <> HFILE_ERROR Then RetVal = True
+  If (lRetVal <> HFILE_ERROR) Then RetVal = True
   
   FileExists = RetVal
   
