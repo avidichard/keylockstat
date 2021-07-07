@@ -17,4 +17,5 @@ No installation is required.
 Developped in Visual Basic 6...Yes, yes, you read right, I developped that in Visual Basic 6 under Windows 11 to try some old 32 bit apps in the new OS. Impressive how old school stuff is so easy to implement and still fully operational.
 
 **Download in the releases section.**
+
 [![Download link](https://i.imgur.com/8NSZpXg.png)](https://github.com/avidichard/keylockstat/releases "Download")
