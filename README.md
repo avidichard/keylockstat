@@ -4,7 +4,7 @@
 
 Display NumLock, CapsLock and ScrollLock status in notification area
 
-For those, like me, who do not have numlock, capslock and scrolllock status leds on their keyboards, this simple tool adds notification area icons.
+For those, like me, who do not have NumLock, CapsLock and ScrollLock status leds on their keyboards or want a visual reference in the notifications area, this simple tool adds notification area icons.
 
 Fully customizable.
 
@@ -14,6 +14,6 @@ Fully customizable.
 
 No installation is required.
 
-Developped in Visual Basic 6...Yes, yes, you read right, I developped that in Visual Basic 6 under Windows 11. Impressive how old school stuff is so easy to implement and still operational.
+Developped in Visual Basic 6...Yes, yes, you read right, I developped that in Visual Basic 6 under Windows 11 to try some old 32 bit apps in the new OS. Impressive how old school stuff is so easy to implement and still fully operational.
 
-Download here: https://github.com/avidichard/keylockstat/releases
+[![Download link](https://i.imgur.com/8NSZpXg.png)](https://github.com/avidichard/keylockstat/releases "Download")
